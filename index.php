@@ -24,7 +24,7 @@
 
 		/* interface */
 		var serverName = document.location.hostname;
-		var serverStatusURL = '/7VTnnXWvhdVeUC6q'
+		var serverStatusURL = '/nginx_status'
 		var refreshInterval = 1; //seconds
 		var itensInLineCharts = 60;
 
