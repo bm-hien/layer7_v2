@@ -1,1 +1,1 @@
-web: bin/start-nginx bundle exec rackup config.ru -p $PORT
+web: vendor/bin/heroku-php-nginx -C nginx.conf web/
